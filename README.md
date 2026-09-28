@@ -156,3 +156,7 @@ O protótipo utiliza ESP32, DHT11, Wi-Fi e ThingSpeak para coletar, transmitir e
 Apesar das limitações do sensor, da comunicação Wi-Fi e da caixa reutilizada, o projeto apresenta uma base funcional para futuras melhorias e para uma solução mais adequada às necessidades do transporte e armazenamento de frutas no Vale do São Francisco.
 
 FrioVale — Tecnologia para monitorar. Dados para decidir. Qualidade para preservar.
+
+**Print do protótipo versão 1.0**
+<img width="2448" height="3264" alt="image" src="https://github.com/user-attachments/assets/d9752b62-f8de-46da-abd4-102f0556041c" />
+
